@@ -1,11 +1,11 @@
-//let ctitle=document.getElementsByClassName("card-title")[0]
-//ctitle.style.color="red"
+let ctitle=document.getElementsByClassName("card-title")[0]
+ctitle.style.color="red"
 
-//let ctitle=document.getElementById("firstclasstitle")[0]
-//ctitle.style.color="red"
+let ctitle=document.getElementById("firstclasstitle")[0]
+ctitle.style.color="red"
 
-//let ctitle = document.getElementById("firstclasstitle");
-//ctitle.style.color = "red";
+let ctitle = document.getElementById("firstclasstitle");
+ctitle.style.color = "red";
 
 let ctitles=document.querySelectorAll(".card-title")
 ctitles[0].style.color="red"
