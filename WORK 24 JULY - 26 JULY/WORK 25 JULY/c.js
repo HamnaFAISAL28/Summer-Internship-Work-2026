@@ -1,4 +1,4 @@
-/*
+
 console.log(document.getElementsByName('span'))
 
 console.log(document.getElementsByName('span'))
@@ -14,17 +14,17 @@ document.body.firstChild.nodeName
 document.body.firstElementChild
 
 console.log(document.body.firstElementChild)
-*/
 
-/* let x=document.getElementsByTagName('span')[0]
+
+ let x=document.getElementsByTagName('span')[0]
 console.log(x)
 
 let y=document.getElementsByTagName('span')[0]
-console.dir(y) */
+console.dir(y)
 
-/* first.innerHTML
+first.innerHTML
 
-first.innerHTML="<i>Hey I am span</i>" */
+first.innerHTML="<i>Hey I am span</i>" 
 
 first.outerHTML
 
