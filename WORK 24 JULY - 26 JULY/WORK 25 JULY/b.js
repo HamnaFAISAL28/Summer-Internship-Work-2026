@@ -1,4 +1,4 @@
-//console.log(id1)
+console.log(id1)
 
 let id1=document.getElementById("id1")
 let sp1=document.getElementById("sp1")
