@@ -1,4 +1,4 @@
-/* let p1=new Promise((resolve,reject)=>{
+ let p1=new Promise((resolve,reject)=>{
 
 setTimeout(()=> {
 
@@ -56,7 +56,7 @@ p1.then((value)=>{
     console.log("We are done")
     console.log(value)
 }
- */
+ 
 
 const loadScrpt=(src)=>{
     return new Promise((resolve,reject)=>{
