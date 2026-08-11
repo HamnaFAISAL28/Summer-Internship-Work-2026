@@ -1,0 +1,21 @@
+db.orders.aggregate([
+{ $group: { _id: null, totalRevenue: { $sum: "$total" } } }
+])
+
+
+db.orders.aggregate([
+{ $group: { _id: "$status", totalOrders: { $sum: 1 } } }
+])
+
+
+db.orders.aggregate([
+{
+ $lookup: {
+from: "products",
+ localField: "products.name",
+ foreignField: "name",
+as: "productDetails"
+}
+}
+])
+
