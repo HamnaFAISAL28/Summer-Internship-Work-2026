@@ -4,8 +4,7 @@ This repository contains all the revision+prototyping+early work.
 If you want to access other works done during this internship, please refer to other repos:
 
 1. AJ ISLAMIC LIBRARY
-2. 
-3. 
-
+2. WORK SERIES...
+3. MONGODB
 Under guidance of Sir Ahmad Jawad Mustasim(FAST-NUCES LAB INSTRUCTOR), all this was possible.
 DIG IN!
